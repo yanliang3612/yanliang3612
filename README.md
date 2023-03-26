@@ -1,4 +1,4 @@
-# Hi, my friends！:
+# Hi, my friends[奸笑]:
 
 <p align="center">
   <samp>
