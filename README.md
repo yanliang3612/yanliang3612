@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-I'm Divin Yan. Student Researcher, Basketball Lover, La Lakers Diehard from Shanghai (China).
+I'm Divin Yan. Student Researcher, Basketball Lover, and LA Lakers Diehard from Shanghai (China).
   </samp>
   <br/>
   <br/>
