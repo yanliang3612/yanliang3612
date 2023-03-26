@@ -1,4 +1,4 @@
-# Hi, guys！:
+# Hi, my friends！:
 
 <p align="center">
   <samp>
