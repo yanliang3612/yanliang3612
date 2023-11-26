@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-I'm Divin Yan. Student Researcher, Basketball Lover, and LA Lakers Diehard from Shanghai (China).
+I'm Divin Yan. Student Researcher, Basketball Lover, and LA Lakers Diehard from Shanghai (China). Now I am working on generative models, AI for Science, and Some Trustworthy AI Problems with Complex Data.
   </samp>
   <br/>
   <br/>
