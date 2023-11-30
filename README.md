@@ -2,7 +2,7 @@
 
 <p >
   <samp>
-Hello, my name is Divin Yan!!! I am a Student Researcher with a passion for basketball, proudly supporting the LA Lakers all the way from Shanghai, China. Now I am working on Generative Models, AI for Science, and Trustworthy AI challenges with complex data.
+Hello, my name is Divin Yan!!! I am a Student Researcher with a passion for basketball, proudly supporting the LA Lakers all the way from Fudan University, Shanghai, China. Now I am working on Generative Models, AI for Science, and Trustworthy AI challenges with complex data.
   </samp>
   <br/>
   <br/>
