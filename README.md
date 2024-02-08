@@ -2,7 +2,7 @@
 
 <p >
   <samp>
-Hello, my name is Divin Yan!!!  Now I am working on Generative Models, AI for Science, and Trustworthy AI challenges with complex data. For GNN, i will not focus on it. The  lastest work in GNN domain which lead by me is submitted in Dec. 2023, i apppreciate the time and experience in the last two years.
+Hello, my name is Divin Yan!!!  Now I am working on Generative Models, AI for Science, and Trustworthy AI challenges with complex data.
   </samp>
   <br/>
   <br/>
