@@ -2,7 +2,7 @@
 
 <p >
   <samp>
-Hello, my name is Divin Yan!!!  Now I am working on Generative Models, AI for Science, and Trustworthy AI challenges with complex data.
+Hello, my name is Divin Yan. Now I am working on Generative Models, AI for Science, and Trustworthy AI challenges with complex data.
   </samp>
   <br/>
   <br/>
