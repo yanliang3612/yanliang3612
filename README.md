@@ -2,7 +2,7 @@
 
 <p >
   <samp>
-Hello, my name is Divin Yan. Now I am working on learning theory, generative models, AI for Science.
+Hello, my name is Divin Yan. Now I am working on learning theory, generative models and AI for Science.
   </samp>
   <br/>
   <br/>
