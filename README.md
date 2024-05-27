@@ -2,7 +2,7 @@
 
 <p >
   <samp>
-Hello, my name is Divin Yan, a junior AI researcher. I believe that the essence of artificial intelligence lies not in learning, but in creation. I have consistently been exploring the boundaries of data distribution, as this marks the inception of true innovation.
+Hello, my name is Divin Yan, a junior AI researcher. I believe that the essence of artificial intelligence lies not in learning, but in creation. I have consistently been exploring the boundaries of knowledge distribution, as this marks the inception of true innovation.
   </samp>
   <br/>
   <br/>
