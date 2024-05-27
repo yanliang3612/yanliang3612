@@ -1,4 +1,4 @@
-# Hi，guys😊 ！
+# Hi，everyone😊 ！
 
 <p >
   <samp>
