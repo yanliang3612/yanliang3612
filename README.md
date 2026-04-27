@@ -6,5 +6,5 @@ Because GitHub only allows pinning 6 repos, here is a longer quick list for what
 
 [UNREAL](https://github.com/yanliang3612/UNREAL)
 
-[Revar](https://github.com/yanliang3612/ReVar)
+[ReVar](https://github.com/yanliang3612/ReVar)
 
