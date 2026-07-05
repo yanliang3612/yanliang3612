@@ -11,3 +11,7 @@ Some Inspiring Words:
 > 3. "If you love a thing you will overcome all difficulties."
 >
 > — Kobe Bryant
+
+> 4. "I focus on one thing and one thing only – that’s trying to win as many championships as I can."
+>
+> — Kobe Bryant
