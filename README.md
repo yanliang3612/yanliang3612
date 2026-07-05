@@ -7,3 +7,7 @@ Some Inspiring Words:
 > 2. "Logic will get you from A to B. Imagination will take you everywhere."
 >
 > — Albert Einstein
+
+> 3. "If you love a thing you will overcome all difficulties."
+>
+> — Kobe Bryant
