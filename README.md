@@ -19,7 +19,7 @@ Some Inspiring Words:
 Because GitHub only allows pinning 6 repos, here is a longer quick list for what you are looking for:
 
 1. Algorithms
-
+  
 2. Python Package & Software
 
 3. Resources & Community (My Maintenance Involvement)
