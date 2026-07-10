@@ -22,7 +22,14 @@ Because GitHub only allows pinning 6 repos, here is a longer quick list for what
    
 - [NucleusDiff](https://github.com/yanliang3612/NucleusDiff)
   ![GitHub stars](https://img.shields.io/github/stars/yanliang3612/NucleusDiff?style=social)
-  
+
+- [UNREAL](https://github.com/yanliang3612/UNREAL)
+  ![GitHub stars](https://img.shields.io/github/stars/yanliang3612/UNREAL?style=social)
+
+- [ReVar](https://github.com/yanliang3612/ReVar)
+  ![GitHub stars](https://img.shields.io/github/stars/yanliang3612/ReVar?style=social)
+
+
 3. Python Package & Software
 
 4. Resources & Community (My Maintenance Involvement)
