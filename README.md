@@ -22,7 +22,7 @@ Because GitHub only allows pinning 6 repos, here is a longer quick list for what
 
 2. Python Package & Software
 
-3. Resources & Community （My Maintenance Involvement）
+3. Resources & Community (My Maintenance Involvement)
 
 - [Awesome-Generative-AI-for-Material-Discovery](https://github.com/yanliang3612/Awesome-Generative-AI-for-Material-Discovery)
 
