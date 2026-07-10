@@ -30,9 +30,9 @@ Because GitHub only allows pinning 6 repos, here is a longer quick list for what
   ![GitHub stars](https://img.shields.io/github/stars/yanliang3612/ReVar?style=social)
 
 
-3. Python Package & Software
+2. Python Package & Software
 
-4. Resources & Community (My Maintenance Involvement)
+3. Resources & Community (My Maintenance Involvement)
 
 - [Awesome-Generative-AI-for-Material-Discovery](https://github.com/yanliang3612/Awesome-Generative-AI-for-Material-Discovery)
   ![GitHub stars](https://img.shields.io/github/stars/yanliang3612/Awesome-Generative-AI-for-Material-Discovery?style=social)
