@@ -12,7 +12,7 @@ Because GitHub only allows pinning 6 repos, here is a longer quick list for what
   ![GitHub stars](https://img.shields.io/github/stars/yanliang3612/ReVar?style=social)
 
 
-2. Python Package & Software
+2. Python Packages & Software
 
 3. Resources & Community (My Maintenance Involvement)
 
