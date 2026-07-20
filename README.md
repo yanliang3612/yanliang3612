@@ -14,6 +14,12 @@ Because GitHub only allows pinning 6 repos, here is a longer quick list for what
 
 2. Python Packages & Software
 
+- [Venom](https://github.com/yanliang3612/Venom)
+  ![GitHub stars](https://img.shields.io/github/stars/yanliang3612/Venom?style=social)
+
+- [Transformers-Made-Simple](https://github.com/yanliang3612/Transformers-Made-Simple)
+  ![GitHub stars](https://img.shields.io/github/stars/yanliang3612/Transformers-Made-Simple?style=social)
+
 3. Resources & Community (My Maintenance Involvement)
 
 - [Awesome-Generative-AI-for-Material-Discovery](https://github.com/yanliang3612/Awesome-Generative-AI-for-Material-Discovery)
