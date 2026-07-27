@@ -1,5 +1,3 @@
-I am Liang Yan, now I am doing a CS Phd at the UW Allen School of CSE.
-
 Some Inspiring Words:
 
 > 1. "The life cycle of a publication does not end when it is published — it begins."
@@ -18,7 +16,7 @@ Some Inspiring Words:
 >
 > — Kobe Bryant
 
-Because GitHub only allows pinning 6 repos, here is a longer quick list for what you are looking for:
+I am Liang Yan, now I am doing a CS Phd at the UW Allen School of CSE. Because GitHub only allows pinning 6 repos, here is a longer quick list for what you are looking for:
 
 1. Algorithms
    
