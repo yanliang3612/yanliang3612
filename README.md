@@ -1,3 +1,5 @@
+I am Liang Yan, now I am doing a CS Phd at the UW Allen School of CSE.
+
 Some Inspiring Words:
 
 > 1. "The life cycle of a publication does not end when it is published — it begins."
