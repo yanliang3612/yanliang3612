@@ -20,31 +20,31 @@ I am Liang Yan, now I am doing a CS Phd at the UW Allen School of CSE. Because G
 
 1. Algorithms
    
-- [NucleusDiff](https://github.com/yanliang3612/NucleusDiff)
-  ![GitHub stars](https://img.shields.io/github/stars/yanliang3612/NucleusDiff?style=social)
-
-- [UNREAL](https://github.com/yanliang3612/UNREAL)
-  ![GitHub stars](https://img.shields.io/github/stars/yanliang3612/UNREAL?style=social)
-
-- [ReVar](https://github.com/yanliang3612/ReVar)
-  ![GitHub stars](https://img.shields.io/github/stars/yanliang3612/ReVar?style=social)
+   - [NucleusDiff](https://github.com/yanliang3612/NucleusDiff)
+     ![GitHub stars](https://img.shields.io/github/stars/yanliang3612/NucleusDiff?style=social)
+   
+   - [UNREAL](https://github.com/yanliang3612/UNREAL)
+     ![GitHub stars](https://img.shields.io/github/stars/yanliang3612/UNREAL?style=social)
+   
+   - [ReVar](https://github.com/yanliang3612/ReVar)
+     ![GitHub stars](https://img.shields.io/github/stars/yanliang3612/ReVar?style=social)
 
 
 2. Python Package & Software
 
-- [Venom](https://github.com/yanliang3612/Venom)
-  ![GitHub stars](https://img.shields.io/github/stars/yanliang3612/Venom?style=social)
+   - [Venom](https://github.com/yanliang3612/Venom)
+     ![GitHub stars](https://img.shields.io/github/stars/yanliang3612/Venom?style=social)
+   
+   - [Transformers-Made-Simple](https://github.com/yanliang3612/Transformers-Made-Simple)
+     ![GitHub stars](https://img.shields.io/github/stars/yanliang3612/Transformers-Made-Simple?style=social)
 
-- [Transformers-Made-Simple](https://github.com/yanliang3612/Transformers-Made-Simple)
-  ![GitHub stars](https://img.shields.io/github/stars/yanliang3612/Transformers-Made-Simple?style=social)
+3. Resources & Community (My Maintenance Involvement)
 
-4. Resources & Community (My Maintenance Involvement)
-
-- [Awesome-Generative-AI-for-Material-Discovery](https://github.com/yanliang3612/Awesome-Generative-AI-for-Material-Discovery)
-  ![GitHub stars](https://img.shields.io/github/stars/yanliang3612/Awesome-Generative-AI-for-Material-Discovery?style=social)
-
-- [Awesome-MLLMs-for-Science](https://github.com/yanliang3612/Awesome-MLLMs-for-Science)
-  ![GitHub stars](https://img.shields.io/github/stars/yanliang3612/Awesome-MLLMs-for-Science?style=social)
-
-- [awesome-imbalanced-learning-on-graphs](https://github.com/yanliang3612/awesome-imbalanced-learning-on-graphs)
-  ![GitHub stars](https://img.shields.io/github/stars/yanliang3612/awesome-imbalanced-learning-on-graphs?style=social)
+   - [Awesome-Generative-AI-for-Material-Discovery](https://github.com/yanliang3612/Awesome-Generative-AI-for-Material-Discovery)
+     ![GitHub stars](https://img.shields.io/github/stars/yanliang3612/Awesome-Generative-AI-for-Material-Discovery?style=social)
+   
+   - [Awesome-MLLMs-for-Science](https://github.com/yanliang3612/Awesome-MLLMs-for-Science)
+     ![GitHub stars](https://img.shields.io/github/stars/yanliang3612/Awesome-MLLMs-for-Science?style=social)
+   
+   - [awesome-imbalanced-learning-on-graphs](https://github.com/yanliang3612/awesome-imbalanced-learning-on-graphs)
+     ![GitHub stars](https://img.shields.io/github/stars/yanliang3612/awesome-imbalanced-learning-on-graphs?style=social)
