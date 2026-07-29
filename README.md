@@ -16,7 +16,7 @@ Some Inspiring Words:
 >
 > — Kobe Bryant
 
-I am Liang Yan, now I am doing a CS Phd at the UW Allen School of CSE. Because GitHub only allows pinning 6 repos, here is a longer quick list for what you are looking for:
+Because GitHub only allows pinning 6 repos, here is a longer quick list for what you are looking for:
 
 1. Algorithms
    
