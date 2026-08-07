@@ -1,4 +1,4 @@
-**I enjoy solving challenging questions.**
+**I enjoy solving hard questions.**
 
 ---
 
