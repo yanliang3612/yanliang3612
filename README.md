@@ -29,6 +29,8 @@ Because GitHub only allows pinning 6 repos, here is a longer quick list for what
    - [UNREAL](https://github.com/yanliang3612/UNREAL)
    
    - [ReVar](https://github.com/yanliang3612/ReVar)
+     
+   - [resnets-route-without-routers](https://github.com/yanliang3612/resnets-route-without-routers)
 
 
 
